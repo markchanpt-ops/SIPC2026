@@ -1,0 +1,73 @@
+Internal Clinical Educator Reasoning
+Phase 1 — Find the Evidence
+Open Questions
+* Examples:
+    * "tell me more about what has been bothering you" (Good open invitation at start).
+    * "how does that sound?" (Permission/agenda setting open question).
+    * "Tell me about what you feel once you wake up and get out of bed" (Good open exploration of early morning stiffness).
+    * "is there anything you usually do to help loosen it up?" (Open-ended inquiry into coping mechanisms).
+    * "What else brings on the pain?" (Open exploration of triggers).
+    * "tell me more about that walk and how much you did" (Good open exploration of the inciting incident).
+* Missed Opportunities:
+    * After Mdm Lim says: "I just hope we can find a way to fix it soon, because it's really affecting my work and getting around." Mark responds with a closed timeline question: "so when did you first notice this?" Instead, he missed an opportunity to ask: "How is it affecting your work and getting around?"
+    * When Mdm Lim expresses deep fear of structural damage: "It makes me feel like I’ve done some damage to it, you know?" Mark moves directly to a closed history question: "So, since this started, have you stopped any physical activity or exercise?" He misses the chance to ask: "What does that damage mean to you?"
+* Strengths/Weaknesses: Mark opens dialogue well initially but tends to use open questions to gather chronological physical history rather than exploring psychological/functional impact.
+Reflections (Simple and Complex)
+* Examples:
+    * "it does soud like you are quite worried about it." (Simple reflection of emotion).
+    * "ok, so its feels achy and tight." (Simple restatement).
+    * "ok, so im hearing that it doesnt feel good when you first wake up." (Simple restatement).
+    * "ok, so in about 10 to 15 mins it feels a bit better." (Simple summary/reflection of timeline).
+    * "ok, so its going down stairs and when you are sitting for a long time." (Simple restatement).
+    * "so its both up and down stairs." (Simple restatement).
+    * "ok, so it doesnt go away immediately. I undedstand how that might make you feel like its doing more damage to the knee." (Complex reflection connecting the somatic experience of lingering pain to her cognitive belief of structural damage).
+    * "ok, so the 20min walk seemed like it was too much." (Simple restatement).
+* Missed Opportunities:
+    * Mdm Lim: "If a simple twenty-minute walk can cause that much trouble... I feel like exercise is just the wrong thing for me. I really think I just need a scan to see what's broken inside..." Mark completely misses reflecting her deep conviction that something is broken or that exercise is dangerous, opting to interrogate the terrain instead: "was it an easy walk or did you have to up and down hill..."
+* Strengths/Weaknesses: Mark is heavy on simple restatements of physical symptoms. He hits one excellent complex reflection regarding the fear of damage, but frequently slips back into a data-gathering mode right after.
+Affirmations
+* Examples:
+    * "and its good to be cautious when its not feeling good." (Affirms her cautious behavior as positive self-protection).
+* Missed Opportunities:
+    * Mdm Lim mentions trying to exercise despite her fear: "I used to go for brisk walks... last month, I tried to go back to it..." Mark misses an opportunity to affirm her internal motivation and effort to stay active before the flare-up occurred.
+    * Mdm Lim describes pacing herself: "I just try to move it slowly... Walk around the kitchen... just gentle walking seems to loosen the stiffness..." Mark could have affirmed her intuitive, smart self-management strategies.
+Summarisation
+* Examples: None of a comprehensive nature. He uses small transitional mini-summaries ("ok, so its going down stairs and when you are sitting for a long time") but fails to pull together a structural summary before moving to the assessment or education phase.
+* Missed Opportunities: Missed a massive opportunity to provide a transitional summary right before offering to give information, which would have wrapped up her history, her fears, and her functional goals neatly.
+Supporting Self-Efficacy
+* Examples: None.
+* Missed Opportunities: When Mdm Lim notes that gentle walking around the kitchen actually helps loosen the joint, Mark misses a key chance to highlight her personal control over her symptoms and build self-efficacy.
+Change Talk
+* Examples: None produced by the patient (the patient is entirely in sustain talk/fear-avoidance). Mark does not actively evoke change talk.
+* Missed Opportunities: Could have asked what she misses most about her evening walks to evoke desire/change talk.
+Rolling with Resistance
+* Examples:
+    * Mdm Lim: "...won't forcing it to build 'tolerance' just wear the joint down even faster?... how do we know that exercising isn't making the actual damage worse?" Mark responds by asking permission to educate: "this is a really common misconception around wear and tear. Would it be ok if I share about what movement actually does for the knee?"
+* Missed Opportunities: While Mark asks for permission, he immediately prefixes it by labeling her thought a "misconception." This resists her resistance rather than rolling with it. A better roll would have been: "You want to be absolutely sure that we aren't causing structural harm before moving forward."
+Resisting the Righting Reflex
+* Examples: Failed to resist.
+* Weakening behaviors: Calling her structural belief a "common misconception" right to her face is a classic manifestation of the righting reflex. It immediately sets a correction tone and causes Mdm Lim to shut down slightly ("Well... okay, you can share. But to be honest, it's very hard for me to understand...").
+Phase 2 — Characterise Communication Patterns
+The consultation began with an open, patient-centered invitation, but rapidly transitioned into a highly structured, clinician-led diagnostic interview. Mark consistently used open questions and simple reflections to map out the physical parameters of the pain (the location, timing, aggravating factors, and behavior of stiffness). However, whenever Mdm Lim introduced emotionally significant fears or deep health beliefs regarding "wearing out," "grinding bones," or structural "damage," Mark routinely acknowledged them briefly with a simple restatement before immediately redirecting the conversation back to factual, closed clarification questions (e.g., asking about the number of steps, pain scales, or the flatness of the walking path).
+As the interview progressed, this pattern intensified. When the patient shared a highly distressing flare-up experience that anchored her fear-avoidance beliefs, the communication shifted entirely to an interrogation of environmental variables (hills, uneven surfaces) rather than an exploration of her trauma from that event. Finally, when confronted with explicit pushback regarding knee tolerance versus joint degradation, the pattern culminated in an immediate attempt to correct her framework, signaling an underlying push toward clinical education before establishing emotional alignment.
+Phase 3 — Interpret the Consultation
+This consultation is a classic example of an educator navigating a history using a biomedical data-gathering style masked with basic communication polite phrases.
+The consultation evolved from an open discussion about a patient’s anxiety into a highly mechanical interrogation of mechanical symptoms. The underlying communication habit that best explains both the strengths and limitations here is Mark’s tendency to treat patient narratives as checklists of physical diagnostic criteria rather than windows into the patient's cognitive representation of their illness.
+Because Mark knows how to ask open questions ("Tell me about...", "What else..."), he successfully uncovers a rich timeline of Mdm Lim's condition. But because his primary goal is to diagnose the structural capabilities of the knee (how many steps can she take, what was the terrain like), he treats her profound fear-avoidance beliefs ("grinding bone down," "something broken inside") as background noise or logical fallacies to be corrected later, rather than the primary barrier to her rehabilitation.
+This habit directly explains why he missed the huge functional impact statement regarding her work at the beginning, why he investigated the smoothness of the park connector pavement instead of her fear of re-injury, and why he ultimately tripped over his own "righting reflex" by calling her deep structural anxiety a "common misconception." He prioritized correcting her mechanics before validating her reality.
+Phase 4 — Identify Coaching Priorities
+1. Prioritizing Belief and Impact Over Somatic Details: Shifting from tracking purely physical variables (pain scores, step counts, terrain) to exploring the functional and psychological impact of those symptoms. If Mark doesn't understand her fear, his mechanical solution won't be adhered to.
+2. Validating and Reflecting Health Beliefs Before Educating (Resisting the Righting Reflex): Replacing the habit of labeling patient beliefs as "misconceptions" with deep, complex reflections of their perspective. This preserves rapport and opens a safer space for permission-based education.
+3. Using Transitional Summaries to Bridge to Education: Learning to synthesize the patient's subjective experience, functional limits, and fears into a neat summary before introducing clinical concepts.
+Phase 5 — Coach the Student
+Coaching Feedback
+Hi Mark,
+You did an excellent job establishing an open, welcoming environment at the start of this session. You naturally use conversational open prompts like "tell me more about what has been bothering you" and "Tell me about what you feel once you wake up," which allowed Mdm Lim to share a clear timeline of her knee stiffness and pain. You also used a wonderful complex reflection when she spoke about her pain lingering ("I understand how that might make you feel like its doing more damage to the knee"). That was a brilliant moment of genuine empathy that connected her physical symptoms to her internal anxiety.
+However, as the conversation progressed, an underlying habit started to limit your effectiveness: you tended to focus heavily on checking off mechanical and environmental details at the expense of exploring her deep fears and beliefs.
+When Mdm Lim dropped major clues about how this is affecting her life—mentioning early on that it is "really affecting my work" and later that she feels like she's "grinding the bone down"—your immediate instinct was to zoom in on physical data collection. You asked for pain scales, the exact number of stairs, and whether the park connector path had hills or uneven surfaces.
+Because you were focusing on the physical mechanics of her walk, you missed the emotional weight of what she was telling you. When a patient is terrified that exercise is actively destroying their joint, asking them if the ground was flat feels like an interrogation of the environment rather than support for their distress. This culminated in you calling her perspective a "common misconception" right before asking to educate her. Even though you politely asked for permission, labeling her fear as a mistake put her on the defensive, causing her to close down and respond with, "to be honest, it's very hard for me to understand."
+To help Mdm Lim safely start moving, she needs to feel that you completely understand her fear of breaking her knee.
+Your Next Step to Practise
+In your next session, consciously resist the "righting reflex" when a patient shares an incorrect medical belief. Instead of correcting it or pivoting to environmental details, use a complex reflection that mirrors their exact worry back to them, and back it up with an affirmation of their caution.
+* What it sounds like: If a patient says, "I feel like exercise is just wearing the joint down faster," instead of explaining tolerance or terrain, try saying: "You're deeply worried that moving this knee is going to permanently damage it, and because you care about your health, you're trying to protect it from getting worse."
+Once the patient nods and feels completely heard, only then ask for permission to share a different perspective. Try this on your next case, and notice how much more receptive the patient becomes to your advice.
